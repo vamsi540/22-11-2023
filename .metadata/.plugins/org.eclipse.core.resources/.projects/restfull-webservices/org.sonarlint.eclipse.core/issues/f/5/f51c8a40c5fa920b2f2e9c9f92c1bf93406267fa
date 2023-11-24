@@ -1,0 +1,10 @@
+
+
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(ù”ş¿8‚·¿ü¿1HÊRMINORZ
+CODE_SMELL
+m
+java:S1118":Add a private constructor to hide the implicit public one.(ÜĞÖ8¦¾¸ü¿1H»RMAJORZ
+CODE_SMELL
+‘
+java:S1488	"_Immediately return this expression instead of assigning it to the temporary variable "userDto".(ƒÄ•_8Û¦¹ü¿1H¿RMINORZ
+CODE_SMELL

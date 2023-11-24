@@ -1,0 +1,5 @@
+package com.vamsi.restfullwebservices.service;
+
+public interface UserService {
+
+}

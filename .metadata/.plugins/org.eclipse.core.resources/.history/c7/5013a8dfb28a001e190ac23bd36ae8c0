@@ -1,0 +1,5 @@
+package com.vamsi.restfullwebservices.exception;
+
+public class ResourceNotFoundException extends RuntimeException {
+	 
+}

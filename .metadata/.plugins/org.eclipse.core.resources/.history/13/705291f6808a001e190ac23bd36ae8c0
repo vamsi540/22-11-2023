@@ -1,0 +1,32 @@
+package com.vamsi.restfullwebservices.mapper;
+
+import com.vamsi.restfullwebservices.UserDto.UserDto;
+import com.vamsi.restfullwebservices.entity.User;
+
+public class UserMapper {
+	public static UserDto mapTopuser(User user)
+	{
+		UserDto userDto=new UserDto(
+				user.getId()	,
+				user.getFirstname(),
+				user.getEmail(),
+				user.getLastname());
+		
+		return userDto;
+		
+	}
+	
+ 	public static User mapTopuser(UserDto userDto)
+
+ 	{
+ 		User user=new User(
+ 				userDto.getId()	,
+ 				userDto.getFirstname(),
+ 				userDto.getEmail(),
+ 				userDto.getLastname());
+		return null;
+ 		
+ 	}
+}
+
+

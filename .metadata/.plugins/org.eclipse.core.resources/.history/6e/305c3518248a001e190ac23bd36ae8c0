@@ -1,0 +1,5 @@
+package com.vamsi.restfullwebservices.entity;
+
+public class User {
+
+}

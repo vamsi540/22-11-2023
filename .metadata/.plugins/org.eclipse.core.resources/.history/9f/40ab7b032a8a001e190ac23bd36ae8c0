@@ -1,0 +1,7 @@
+package com.vamsi.restfullwebservices.service;
+
+import com.vamsi.restfullwebservices.entity.User;
+
+public interface UserService {
+User createUser(User user);
+}

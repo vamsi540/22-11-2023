@@ -1,0 +1,5 @@
+package com.vamsi.restfullwebservices.UserDto;
+
+public class UserDto {
+
+}

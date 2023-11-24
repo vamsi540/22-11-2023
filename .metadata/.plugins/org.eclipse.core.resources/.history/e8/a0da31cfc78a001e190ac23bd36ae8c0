@@ -1,0 +1,24 @@
+package com.vamsi.restfullwebservices;
+
+import org.modelmapper.ModelMapper;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+
+import io.swagger.v3.oas.annotations.OpenAPIDefinition;
+import io.swagger.v3.oas.annotations.info.Info;
+@OpenAPIDefinition(
+		info =@Info(title="Spring boot rest api",description="spring",version="v1.0")
+@SpringBootApplication
+public class RestfullWebservicesApplication {
+	@Bean
+	public ModelMapper modelmapper() {
+		ModelMapper modelmapper=new ModelMapper();
+		return modelmapper;
+	}
+
+	public static void main(String[] args) {
+		SpringApplication.run(RestfullWebservicesApplication.class, args);
+	}
+
+}

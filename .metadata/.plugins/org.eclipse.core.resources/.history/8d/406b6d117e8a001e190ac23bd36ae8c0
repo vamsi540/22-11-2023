@@ -1,0 +1,11 @@
+package com.vamsi.restfullwebservices.UserDto;
+
+public class UserDto {
+	private String firstname;
+	private String lastname;
+
+	private String email;
+	private Long id;
+
+
+}

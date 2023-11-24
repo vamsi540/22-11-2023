@@ -1,0 +1,9 @@
+package com.vamsi.restfullwebservices.mapper;
+
+import com.vamsi.restfullwebservices.UserDto.UserDto;
+import com.vamsi.restfullwebservices.entity.User;
+
+public class UserMapper {
+	public static UserDto mapTpuser(User user)
+
+}

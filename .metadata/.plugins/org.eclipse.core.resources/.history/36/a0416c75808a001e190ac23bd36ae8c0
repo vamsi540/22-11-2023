@@ -1,0 +1,5 @@
+package com.vamsi.restfullwebservices.mapper;
+
+public class UserMapper {
+
+}

@@ -1,0 +1,33 @@
+
+€
+java:S3655E"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(çÆ‡³ýÿÿÿÿ8–­‡û¿1H9RMAJORZBUG
+c
+java:S1135R"2Complete the task associated to this TODO comment.(Ï¹«Æ8Ñ›¯û¿1HNRINFOZ
+CODE_SMELL
+r
+java:S1128":Remove this unused import 'org.apache.el.stream.Optional'.(µ‡Âêûÿÿÿÿ8³­–ƒÀ1H«RMINORZ
+CODE_SMELL
+|
+java:S3655,"PCall "optional.isPresent()" or "!optional.isEmpty()" before accessing the value.(§ôËÏ8Â×Ç‚À1HÙRMAJORZBUG
+j
+java:S1611;"2Remove the parentheses around the "user" parameter(Ì¤¡ðýÿÿÿÿ8é¼Œÿ¿1H¤RMINORZ
+CODE_SMELL
+s	java:S125J"<This block of commented-out lines of code should be removed.( ³ïëýÿÿÿÿ8Ó“ÿ¿1H™RMAJORZ
+CODE_SMELL
+n	java:S125 "<This block of commented-out lines of code should be removed.(¿üæ8ñÀñþ¿1H€RMAJORZ
+CODE_SMELL
+…
+java:S6204<"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Þõ•ƒÀ1H¥RMAJORZ
+CODE_SMELL
+œ
+java:S1488""dImmediately return this expression instead of assigning it to the temporary variable "savedUserDto".(÷«ËØþÿÿÿÿ8üú’ƒÀ1H‘RMINORZ
+CODE_SMELL
+n	java:S125:"<This block of commented-out lines of code should be removed.(‘Üã«8é¼Œÿ¿1HŒRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ôîÀþ8î¨ëþ¿1HóRMAJORZ
+CODE_SMELL
+n	java:S125-"<This block of commented-out lines of code should be removed.(¡‘é£8Þõýþ¿1H†RMAJORZ
+CODE_SMELL
+
+java:S1128"LRemove this unused import 'com.vamsi.restfullwebservices.mapper.UserMapper'.(×Ù‘Ð8³­–ƒÀ1H­RMINORZ
+CODE_SMELL

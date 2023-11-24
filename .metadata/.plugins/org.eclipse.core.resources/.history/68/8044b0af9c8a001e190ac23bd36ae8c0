@@ -1,0 +1,9 @@
+package com.vamsi.restfullwebservices.mapper;
+
+import org.mapstruct.Mapper;
+
+@Mapper
+public interface AutoUserMapper {
+
+	
+}

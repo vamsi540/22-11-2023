@@ -1,0 +1,14 @@
+package com.vamsi.restfullwebservices.mapper;
+
+import org.mapstruct.Mapper;
+
+import com.vamsi.restfullwebservices.UserDto.UserDto;
+import com.vamsi.restfullwebservices.entity.User;
+
+@Mapper
+public interface AutoUserMapper {
+	UserDto mapToUserDto(User user);
+	
+	User mapToUser(UserDto userDto);
+
+}
